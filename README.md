@@ -4,7 +4,7 @@ This Simple Responsive Landing Page for computer Addition
 
  ## Visit Site :boom:
  
- **[Click here](https://karam-zomlut.github.io/Techgear/)**
+ **[Click here](https://techgear-uz.netlify.app/)**
 
 
 ## Used Skills: :exclamation:
